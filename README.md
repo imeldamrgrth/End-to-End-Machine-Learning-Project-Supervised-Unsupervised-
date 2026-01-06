@@ -65,10 +65,9 @@ The dataset represents synthetic insurance claim data, including customer demogr
   - GridSearchCV for KNN  
 
 ### 5. Model Evaluation
-- Both models achieved **near-perfect performance** due to clearly separable clusters.  
-- Random Forest maintained 100% accuracy, KNN slightly dropped to 99.89% after tuning.  
-- Recommendations: test on **noisy or more complex datasets** to validate generalization.
-
+- Both models demonstrated strong predictive performance, reflecting the clear separation between clusters.  
+- Random Forest showed consistently high reliability, while KNN also performed very well after tuning.
+  
 ---
 
 ## Technologies Used
